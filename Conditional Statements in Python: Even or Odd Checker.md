@@ -25,7 +25,7 @@ else:
 
 
 ## Output
-![Screenshot 2025-04-29 110526](https://github.com/user-attachments/assets/f0947859-d040-40fa-8d19-cdd219852763)
+![image](https://github.com/user-attachments/assets/81207222-5e2d-45ad-a5b6-f7036fcb59a3)
 
 
 
